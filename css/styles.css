@@ -134,7 +134,6 @@ body {
 
 .main-container {
     align-items: center;
-    border-bottom: 1px solid #ECECEC;
 }
 
 
@@ -220,7 +219,6 @@ body {
 
     padding: 10px 32px;
     display: inline-block;
-    min-width: 200px;
     border: 1px solid transparent;
 }
 
